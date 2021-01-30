@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNSkyWay
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://github.com/micin-jp/react-native-skyway"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
@@ -21,4 +21,3 @@ Pod::Spec.new do |s|
 
 end
 
-  
